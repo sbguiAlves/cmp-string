@@ -1,0 +1,3 @@
+Strings de busca:
+s1 = (( non player character  OR  “NPC” ) AND (( artificial intelligence  OR  “AI” ) AND ( game  AND ( decision making  AND (((( realistic  OR  believable ) OR  emotional ) OR  psychological ) AND  behavior )))))
+s2 = (( video games  OR  digital games ) OR  computer games )

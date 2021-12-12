@@ -1,0 +1,9 @@
+s1{
+	ou('non player character',<a>'NPC'</a>);
+	ou('artificial intelligence',<a>'AI'</a>);
+	'game';
+	'decision making';
+	ou('realistic','believable','emotional','psychological');'behavior'
+}
+
+s2{ou('video games', 'digital games', 'computer games')}
